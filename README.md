@@ -73,9 +73,11 @@ A continuación se presenta una descripción de las variables presentes en el Da
 39. 'code_additions_deletions_4_weeks.deletions': Cantidad de líneas eliminadas del código en el repositorio en las últimas 4 semanas.
 40. 'alexa_rank': Clasificación de Alexa Rank que indica la popularidad del sitio web relacionado con el repositorio en Internet.
 
-### Luego de ver el mapa de calor y correlaciones nos damos cuenta que las variables que mas tienen relación ya sea negativa o positiva son estas (**high_24h, current_price, low_24h, max_price, price_change_24 h, closed_issues, total_issues, circulating_supply, total_supply, min_price**), a partir de estas crearemos nuestros KPI`s y veremos las graficas a analizar
+## EDA y KPI`s
 
-## KPIs Calculados
+Luego de ver el mapa de calor y correlaciones nos damos cuenta que las variables que mas tienen relación ya sea negativa o positiva son estas (**high_24h, current_price, low_24h, max_price, price_change_24 h, closed_issues, total_issues, circulating_supply, total_supply, min_price**), a partir de estas crearemos nuestros KPI`s y veremos las graficas a analizar
+
+### KPIs Calculados
 
 1. **Volatilidad del Precio:**
    Calcula la fluctuación promedio del precio en un período de tiempo determinado.
@@ -86,7 +88,7 @@ A continuación se presenta una descripción de las variables presentes en el Da
 3. **Relación Circulante:**
    Calcula la proporción de la oferta circulante en relación con la oferta total.
 
-# Visualizaciones
+### Visualizaciones
 
 1. Visualización de Correlaciones
     - Se filtran columnas numéricas y se calcula la matriz de correlación.
