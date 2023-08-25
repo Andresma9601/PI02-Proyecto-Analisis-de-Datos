@@ -64,14 +64,14 @@ A continuación se presenta una descripción de las variables presentes en el Da
 30. `last_updated`: Fecha y hora de la última actualización de datos.
 31. `forks`: Número de forks de la criptomoneda.
 32. `stars`: Número de estrellas de la criptomoneda
-33. 'total_issues': Número total de problemas (issues) registrados en el repositorio.
-34. 'closed_issues': Número de problemas (issues) que han sido cerrados en el repositorio.
-35. 'pull_requests_merged': Número de solicitudes de extracción (pull requests) que han sido fusionadas en el repositorio.
-36. 'pull_request_contributors': Número de colaboradores que han realizado solicitudes de extracción (pull requests) en el repositorio.
-37. 'commit_count_4_weeks': Cantidad de confirmaciones (commits) realizadas en el repositorio en las últimas 4 semanas.
-38. 'code_additions_deletions_4_weeks.additions': Cantidad de líneas agregadas al código en el repositorio en las últimas 4 semanas.
-39. 'code_additions_deletions_4_weeks.deletions': Cantidad de líneas eliminadas del código en el repositorio en las últimas 4 semanas.
-40. 'alexa_rank': Clasificación de Alexa Rank que indica la popularidad del sitio web relacionado con el repositorio en Internet.
+33. `total_issues`: Número total de problemas (issues) registrados en el repositorio.
+34. `closed_issues`: Número de problemas (issues) que han sido cerrados en el repositorio.
+35. `pull_requests_merged`: Número de solicitudes de extracción (pull requests) que han sido fusionadas en el repositorio.
+36. `pull_request_contributors`: Número de colaboradores que han realizado solicitudes de extracción (pull requests) en el repositorio.
+37. `commit_count_4_weeks`: Cantidad de confirmaciones (commits) realizadas en el repositorio en las últimas 4 semanas.
+38. `code_additions_deletions_4_weeks.additions`: Cantidad de líneas agregadas al código en el repositorio en las últimas 4 semanas.
+39. `code_additions_deletions_4_weeks.deletions`: Cantidad de líneas eliminadas del código en el repositorio en las últimas 4 semanas.
+40. `alexa_rank`: Clasificación de Alexa Rank que indica la popularidad del sitio web relacionado con el repositorio en Internet.
 
 ## EDA y KPI`s
 
