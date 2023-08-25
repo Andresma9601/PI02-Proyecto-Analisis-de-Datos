@@ -65,3 +65,20 @@ A continuación se presenta una descripción de las variables presentes en el Da
 31. `forks`: Número de forks del repositorio de código de la criptomoneda.
 32. `stars`: Número de estrellas del repositorio de código de
 
+# Visualizaciones
+
+1. Visualización de Correlaciones
+    - Se filtran columnas numéricas y se calcula la matriz de correlación.
+    - Se establece un umbral de correlación y se muestran las correlaciones relevantes.
+    - Se crea un mapa de calor de las correlaciones relevantes.
+
+2. Visualizaciones de Datos Numéricos
+    - **Box Plot de High 24h por Categoría:** Muestra la distribución de los valores de "High 24h" por categoría.
+    - **Scatter Plot de Current Price vs. Max Price:** Representa la relación entre los precios actuales y máximos de las criptomonedas.
+    - **Histograma de Price Change 24h:** Visualiza la distribución de cambios de precio en 24 horas.
+    - **Gráfico de Barras de Total Issues por Categoría:** Muestra el número de problemas totales por categoría.
+    - **Gráfico de Pastel de Distribución de Closed Issues:** Ilustra la distribución de problemas cerrados.
+    - **Gráfico de Líneas de Min Price a lo largo del tiempo:** Muestra las tendencias de "Min Price" a lo largo del tiempo.
+    - **Box Plot de Circulating Supply por Total Supply:** Explora la relación entre "Circulating Supply" y "Total Supply".
+    - **Gráfico de Barras de Total Supply por Categoría:** Muestra el suministro total por categoría.
+    - **Joint Plot de Current Price y Max Price:** Presenta la relación entre "Current Price" y "Max Price".
